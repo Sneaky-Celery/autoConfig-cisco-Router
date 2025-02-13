@@ -1,4 +1,4 @@
-# Written by Scott Proctor
+# Written by Sneaky Celery
 import serialConnect
 import re
 # NOTE to self: Current Problem: configuration_questions is not differentiating between what device was chosen
