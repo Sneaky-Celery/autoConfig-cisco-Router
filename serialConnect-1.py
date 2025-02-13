@@ -1,4 +1,4 @@
-# Scott Proctor CNA 256
+# Sneaky Celery
 import serial
 import time
 
